@@ -1,0 +1,15 @@
+.HeadLine{
+    display: flex;
+    justify-content: flex-start;
+
+}
+#vr{
+    width: 0.5px solid black;
+    height:50vw;
+    border: 0.25px solid black;
+}
+#headerComponent{
+    
+    height: 500px;
+    
+}
