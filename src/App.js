@@ -14,7 +14,8 @@ function App() {
     <div className="App">
       <Title/>
       <NavBar/>
-     <HeadLine />
+     <HeadLine/>
+     
     </div>
   );
 }
