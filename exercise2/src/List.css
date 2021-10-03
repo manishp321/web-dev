@@ -1,0 +1,9 @@
+.Shopping{
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+  
+}
+li{
+    list-style: none;
+}
